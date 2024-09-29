@@ -1,4 +1,5 @@
 package com.example;
+
 // basic interfaces
 interface Herbivores {
     public String food = "траву";
